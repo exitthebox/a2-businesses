@@ -1,0 +1,56 @@
+[{
+  "category": "Toys",
+  "city": "Sunnyvale",
+  "company": "Schamberger Group",
+  "description": "at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis odio donec",
+  "email": "jhowell0@time.com",
+  "phone": "1-(408)816-7032",
+  "state": "California",
+  "street": "76165 Kinsman Street",
+  "years_in_business": 60,
+  "zip": "94089"
+}, {
+  "category": "Automotive",
+  "city": "Philadelphia",
+  "company": "Bednar, Schiller and Kuhlman",
+  "description": "id massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras mi pede malesuada in imperdiet",
+  "email": "csmith1@barnesandnoble.com",
+  "phone": "1-(215)757-4358",
+  "state": "Pennsylvania",
+  "street": "3 Ridge Oak Alley",
+  "years_in_business": 41,
+  "zip": "19178"
+}, {
+  "category": "Industrial",
+  "city": "Mount Vernon",
+  "company": "Bechtelar, Wunsch and Langworth",
+  "description": "montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis",
+  "email": "swest2@weebly.com",
+  "phone": "1-(914)681-2410",
+  "state": "New York",
+  "street": "8408 Waxwing Crossing",
+  "years_in_business": 37,
+  "zip": "10557"
+}, {
+  "category": "Shoes",
+  "city": "Chattanooga",
+  "company": "Marvin, Bogisich and Schiller",
+  "description": "dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at",
+  "email": "fjones3@blogger.com",
+  "phone": "1-(423)710-0424",
+  "state": "Tennessee",
+  "street": "9 Reindahl Trail",
+  "years_in_business": 44,
+  "zip": "37416"
+}, {
+  "category": "Shoes",
+  "city": "Dallas",
+  "company": "Rowe-Schultz",
+  "description": "nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio in hac",
+  "email": "lromero4@free.fr",
+  "phone": "1-(214)574-7697",
+  "state": "Texas",
+  "street": "86 Butterfield Junction",
+  "years_in_business": 25,
+  "zip": "75397"
+}]
